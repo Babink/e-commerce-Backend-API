@@ -1,0 +1,34 @@
+{
+  "name": "lisa-fashion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"./{,!(node_modules)/**/}*.test.js\"",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.1.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.4.22",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10",
+    "supertest": "^4.0.2",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "expect": "^24.8.0",
+    "mocha": "^6.1.4",
+    "tap": "^13.1.8"
+  }
+}

@@ -1,0 +1,13 @@
+INFO  time: initialize in 14s
+WARN  no build tool detected in workspace 'c:\Users\dell\Desktop\online store\lisa-fashion'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 6.64s
+WARN  no build tool detected in workspace 'c:\Users\dell\Desktop\online store\lisa-fashion'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 1.3s
+WARN  no build tool detected in workspace 'c:\Users\dell\Desktop\online store\lisa-fashion'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  shutting down Metals
+INFO  time: initialize in 5.35s
+WARN  no build tool detected in workspace 'C:\Users\dell\Desktop\online store\lisa-fashion'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
