@@ -21,7 +21,7 @@
     "morgan": "^1.9.1",
     "nodemon": "^1.18.10",
     "supertest": "^4.0.2",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "assert": "^2.0.0",
